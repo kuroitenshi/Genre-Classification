@@ -19,7 +19,6 @@ import javax.swing.UIManager;
 
 public class MainForm extends JFrame 
 {
-
 	private static final long serialVersionUID = 1L;
 	private JPanel mainContentPane;
 	private JTextField TF_File;
